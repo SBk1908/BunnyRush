@@ -1,0 +1,44 @@
+PRIVACY POLICY FOR SOKO-BUNNY
+
+Last updated: September 10, 2026
+
+Smileback Games ("we", "us", or "our") operates the Soko-bunny mobile game (the "App"). This Privacy Policy explains how information is handled when you use the App.
+
+INFORMATION WE STORE
+
+The App stores game progress, completed levels, earned stars, and audio preferences locally on your device. This information is used only to provide the App's functionality. We do not create user accounts and do not directly collect your name, email address, contacts, precise location, or payment information.
+
+ADVERTISING
+
+The App uses Google Mobile Ads (AdMob) to show advertisements. Google and its advertising partners may collect or process information such as device identifiers, IP address, approximate location derived from IP address, app interaction information, and diagnostic information. This information may be used to provide, measure, prevent fraud in, and where permitted, personalize advertising.
+
+Google's handling of information is governed by its privacy policy:
+https://policies.google.com/privacy
+
+You can manage advertising preferences through your device settings. Where required by applicable law, the App or its advertising provider may ask for your consent before serving personalized advertising.
+
+DATA SHARING
+
+We do not sell your personal information. Local game-progress data remains on your device unless you choose to use an operating-system or platform backup service. Advertising-related information is handled by Google and its advertising partners as described above.
+
+CHILDREN'S PRIVACY
+
+The App is not directed to children under the age at which consent is required in their country. We do not knowingly collect personal information directly from children. If you believe a child has provided us with personal information, contact us so that we can address the request.
+
+DATA RETENTION AND DELETION
+
+You can delete locally stored game-progress data using the App's reset-progress feature or by uninstalling the App. Advertising data is subject to the retention and deletion practices of Google and its partners.
+
+SECURITY
+
+We use reasonable measures appropriate to the App's limited data handling. However, no electronic transmission or storage method is completely secure.
+
+CHANGES TO THIS POLICY
+
+We may update this Privacy Policy when the App, applicable law, or our advertising providers change. The updated version will be published at this URL and its "Last updated" date will be revised.
+
+CONTACT US
+
+For privacy questions or requests, contact:
+antgamon@gmail.com
+
